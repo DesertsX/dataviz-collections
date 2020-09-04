@@ -31,7 +31,7 @@
 ## 本系列目录汇总
 ### EP01
 [可视化作品分享：第1期 | 好评来袭](https://mp.weixin.qq.com/s/OYpXKscwcuesbvqWkdLiLw)  
-![](./images/EP01.jpg)
+![](./images/ep01.jpg)
 
 
 ## 网络一线牵，珍惜这段缘
