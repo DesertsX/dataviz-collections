@@ -29,10 +29,11 @@
 另外，可视化相关英文文章的翻译、D3.js 基础教程文章等更多内容也是计划会更新的。除此之外，大家有什么关于更新的想法也可以评论或各种途径告诉我。
 
 ## 本系列目录汇总
-### EP01
-[可视化作品分享：第1期 | 好评来袭](https://mp.weixin.qq.com/s/OYpXKscwcuesbvqWkdLiLw)  
-![](./images/ep01.jpg)
+**EP01**: [可视化作品分享：第1期 | 好评来袭](https://mp.weixin.qq.com/s/OYpXKscwcuesbvqWkdLiLw)  
+![](./images/ep01.jpg)  
 
+**EP02**: [可视化作品分享：第2期 | 好评来袭](https://mp.weixin.qq.com/s/hSAMVG_xJw2hrtsrELWmhA)  
+![](./images/ep02.jpg)  
 
 ## 网络一线牵，珍惜这段缘
 最后，欢迎关注古柳的公众号`「牛衣古柳」`，以便第一时间收到更新。  
