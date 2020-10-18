@@ -35,6 +35,9 @@
 **EP02**: [可视化作品分享：第2期 | 好评来袭](https://mp.weixin.qq.com/s/hSAMVG_xJw2hrtsrELWmhA)  
 ![](./images/ep02.jpg)  
 
+**EP03**: [可视化作品分享：第3期 | 好评来袭](https://mp.weixin.qq.com/s/-zXFU0ciwMOviAFDAqIKug)   
+![](./images/ep03.jpg)  
+
 ## 网络一线牵，珍惜这段缘
 最后，欢迎关注古柳的公众号`「牛衣古柳」`，以便第一时间收到更新。  
 ![](./images/牛衣古柳公众号.png)
